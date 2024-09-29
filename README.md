@@ -14,6 +14,10 @@ git clone https://github.com/mikheevshow/digital-breakthrough-solution.git
 
 2. Распакуйте набор данных с хакатона в директорию с проектом
 
-3. Откройте файл `solution.ipynb`
+3. Откройте файл `feature_eng_pipe.ipynb` 
 
 4. Выполните все ячейки
+   
+5. Откройте файл `train_test_pipe.ipynb`
+   
+6. Выполните все ячейки
